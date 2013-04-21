@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viajero</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="entrar">Ingresar</string>
+    <string name="error_autenticacion">Usuario o password invalidos</string>
+    <string name="nuevo_gasto">Nuevo Gasto</string>
+    <string name="nuevo_viaje">Nuevo Viaje</string>
+    <string name="mis_viajes">Mis Viajes</string>
+    <string name="configuraciones">Configuraciones</string>
+    <string name="categoria">Categoria</string>
+    <string name="valor">Valor</string>
+    <string name="data">Fecha</string>
+    <string name="seleccione">Seleccione</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="local">Local</string>
+    <string name="gastado">Gastado!</string>
+
+
+    <string-array name="categoria_gasto">
+        <item>Alimentacion</item>
+        <item>Combustible</item>
+        <item>Transporte</item>
+        <item>Hospedaje</item>
+        <item>Otros</item>
+    </string-array>
+
+</resources>
